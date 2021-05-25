@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Ishaan006
+- 👀 I’m interested in Software Development 
+- 🌱 I’m currently learning Python
+- 📫 You can reach me via my Instagram Handle [@ishaantf] or my email [ishaanwtf@gmail.com]
